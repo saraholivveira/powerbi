@@ -1,7 +1,9 @@
 # Projeto de Dashboard de Logística no Power BI
 
 O repositório contém uma análise de dados feita através de dashboard desenvolvido no Power BI. O dataset foi fornecido pela plataforma Alura no Alura Challenge BI, 
-assim como as regras de negócio.
+assim como as regras de negócio. A empresa fictícia Alura Log vinha recebendo reclamações de clientes por conta de atrasos nas encomendas. Para manter o bom padrão dos seus serviços, a gestão da empresa optou por monitorar os números e definir metas para que, aos poucos, os atrasos fossem reduzidos.
+
+![image](https://user-images.githubusercontent.com/89671532/213070378-7587d535-3172-4100-8027-08c104d1dde5.png)
 
 Foi definido que as informações a serem fornecidas seriam:
 
